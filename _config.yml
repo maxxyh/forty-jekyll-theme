@@ -4,7 +4,7 @@ subtitle: Software Developer
 email: maxxyh@gmail.com
 description: In pursuit of simple, elegant solutions for our world's problems. <br> Seeking to bring joy and convenience with my work. <br> NUS Computer Science, Class of 2023.
 baseurl:  # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+url: https://maxxyh.github.io/portfolio/ # the base hostname & protocol for your site
 author:
 street_address: 
 city: 
