@@ -5,6 +5,7 @@ description: Mesh Bio Internship
 image: assets/images/meshBio.png
 nav-menu: false
 show_tile: false
+includeImage: true
 ---
 
 [Mesh Bio](www.meshbio.com) is a startup concerned with using predictive healthcare analysis to improve chronic disease management. Had the privilege of being Mesh Bio's first intern, working with the amazing, driven founders as a software engineer intern from Janurary 2019 - June 2019. This was my first foray into the world of tech.

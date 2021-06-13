@@ -5,6 +5,7 @@ description: Visenze Summer Internship
 image: assets/images/visenze.png
 nav-menu: false
 show_tile: false
+includeImage: true
 ---
 
 [Visenze](www.visenze.com) uses image recognition AI to make the visual world more searchable and understandable. Specifically, Visenze's services - intelligent serarch, personalization and product recommendation - are targeted at the e-commerce market. 

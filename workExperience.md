@@ -32,6 +32,7 @@ nav-menu: true
 					<h3>Visenze Pte. Ltd. - Software Engineer Intern (2021)</h3>
 				</header>
 				<p>Visenze uses image recognition AI to make the visual world more searchable and understandable. Specifically, Visenze's services - intelligent serarch, personalization and product recommendation - are targeted at the e-commerce market. </p>
+				<p>I developed new features for the company's internal Machine Learning Platform to support the data scientists, participating actively in the team's SCRUM lifecycle. </p>
 				<ul class="actions">
 					<li><a href="visenze.html" class="button">Learn more</a></li>
 				</ul>
@@ -47,8 +48,8 @@ nav-menu: true
 				<header class="major">
 					<h3>Mesh Bio Pte. Ltd - Software Engineer Intern (2019)</h3>
 				</header>
-				<p>Mesh Bio is a startup creating tools for precision healthcare. Their systems aim to transofmr complex biological data into actionable insights for clinical practice. </p>
-				<p>Had the privilege of being Mesh Bio's first intern, working with the amazing, driven founders as a software engineer intern from Janurary 2019 - June 2019. This was my first foray into the world of tech.</p>
+				<p>Mesh Bio is a startup creating tools for precision healthcare. Their systems aim to transform complex biological data into actionable insights for clinical practice. </p>
+				<p>I developed the company's DARA (Disease Associated Risk Assessment) data analysis engine for predictive analysis of 6 chronic diseases in Python, leading to its deployment to its clients.</p>
 				<ul class="actions">
 					<li><a href="meshBio.html" class="button">Learn more</a></li>
 				</ul>

@@ -31,7 +31,9 @@ nav-menu: true
 				<header class="major">
 					<h3>Shopee Product & Design Challenge 2020 (Grand Champion)</h3>
 				</header>
-				<p>Grand Champion of Singapore's first Product Management and Design Competition. We were tasked to design a product feature to help maintain Shopee's lead in the E-commerce market.</p>
+				<p>Singapore's first Product Management and Design Competition. We were tasked to design a product feature to help maintain Shopee's lead in the E-commerce market.<br />
+				Our feature, <b>ShopeeList</b>, focused on making it easier to share multiple products, so as to build up Shopee's social network.</p>
+				<p><b>Areas of Growth</b>: Visual Prototyping (Figma), Presentation and Pitching, UX Processes (User analysis, User Flows), Product Management.</p>
 				<ul class="actions">
 					<li><a href="shopeeDesignChallenge.html" class="button">Learn more</a></li>
 				</ul>
@@ -47,8 +49,9 @@ nav-menu: true
 				<header class="major">
 					<h3>NUS Orbital 2020 (Grand Champion)</h3>
 				</header>
-				<p>Grand Champion of NUS' 1st year summer independent software development module, Orbital (CP2106: Independent Software Development Project). This programme gives students the opportunity to build software independently, and pick up software development skills on their own. </p>
-				<p> My partner and I developed a turn-based strategy game, <b>Elsewhere</b>, in Unity Game Engine, based on classics like Final Fantasy Tactics and Fire Emblem. We're honoured to be awarded grand champion out of 383 participating teams. Come play Elsewhere!</p>
+				<p>NUS' 1st year summer independent software development module, <b>Orbital</b>, gives students the opportunity to build software independently, and pick up software development skills on their own. <br />
+				My partner and I developed a turn-based strategy game, <b>Elsewhere</b>, in Unity Game Engine, based on classics like Final Fantasy Tactics and Fire Emblem. We were under the guidance of an industry mentor.</p>
+				<p><b>Areas of Growth</b>: Software Engineering, Game Design, Storywriting.</p>
 				<ul class="actions">
 					<li><a href="orbital.html" class="button">Learn more</a></li>
 				</ul>
@@ -64,8 +67,9 @@ nav-menu: true
 				<header class="major">
 					<h3>Hack For Good 2021 (1st Runners-Up)</h3>
 				</header>
-				<p>1st Runners-up for Hack For Good, a student-run virtual hackathon which seeks to inspire students to learn and use technology for social causes. The innovation challenge poses real problem statements provided by NPOs in Singapore. </p>
-				<p>Our solution, The Social Census, is a simple, fun-to-use question-and-answer platform that provokes thought and discussion about social issues involving diversity in Singapore, by illuminating the differences in our views and experiences. </p>
+				<p>Hack For Good is a hackathon which seeks to inspire students to learn and use technology for social causes. The innovation challenge poses real problem statements provided by NPOs in Singapore. <br />
+				Our solution, <b>The Social Census</b> is a simple, fun-to-use question-and-answer platform that provokes thought and discussion about social issues involving diversity in Singapore, by illuminating the differences in our views and experiences. </p>
+				<p><b>Areas of Growth</b>: Pitching (Visual and Verbal), Visual Prototyping (Figma), Market Research.</p>
 				<ul class="actions">
 					<li><a href="hackForGood.html" class="button">Learn more</a></li>
 				</ul>
@@ -82,6 +86,7 @@ nav-menu: true
 					<h3>Bamboo Finance Tracker (CS2103 Project)</h3>
 				</header>
 				<p>Bamboo is a simple desktop app for managing personal finance, optimized for use via a Command Line Interface (CLI), and targeted at college students. If you can type fast, Bamboo can get your financial management tasks done faster than traditional GUI apps.</p>
+				<p><b>Areas of Growth</b>: Software Engineering, Project Management.</p>
 				<ul class="actions">
 					<li><a href="bamboo.html" class="button">Learn more</a></li>
 				</ul>
