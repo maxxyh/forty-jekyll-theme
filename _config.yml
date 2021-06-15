@@ -1,6 +1,7 @@
 # site settings
 title: Maxx Chan
 subtitle: Software Developer
+form_id: mzbygver
 email: maxxyh@gmail.com
 description: In pursuit of simple, elegant, and incisive solutions for our world's problems. <br> Seeking to bring joy and convenience with my work. <br> NUS Computer Science, Class of 2023.
 baseurl: /portfolio # the subpath of your site, e.g. /blog
