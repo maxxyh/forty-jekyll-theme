@@ -54,7 +54,7 @@ My contributions to Whispers SG are as follows:
 It was a difficult yet immensely rewarding experience to be able to go through the entire product life cycle, from conceptualisation in **design**, to fast-paced **development**, and eventually bringing the product to market and doing **user acquisition**. All this in just 7 weeks!
 
 <figure>
-  <img src="assets/images/whispersSgInterface.png" style="width:100%; max-width: 700px" />
+  <img src="assets/images/whispersSgDesign.png" style="width:100%; max-width: 700px" />
   <figcaption><i>Site Interface</i></figcaption>
 </figure>
 <br/>
