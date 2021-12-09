@@ -36,6 +36,8 @@ In view of the current political situation in Myanmar, tEnPower is currently tak
 
 
 ### 2019 Winter Trip Video Montage
-<div class="responsive-google-slides">
+<div class="responsive-container">
+  <div class="responsive-google-slides">
     <iframe src="https://www.youtube.com/embed/JmfYajD2rZk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
 </div>

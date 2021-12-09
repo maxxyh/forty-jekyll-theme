@@ -23,6 +23,25 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
+		<a href="whispersSg.html" class="image">
+			<img src="{% link assets/images/whispersSgCover.jpg %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Whispers SG (CS3216 Final Project)</h3>
+				</header>
+				<p><a href="http://www.whispers.sg">Whispers SG</a> is a <b>privacy-focused anonymous social network</b> that promotes authentic and honest sharing without fear of judgment. An <b>online safe space</b> where you can experience a new kind of freedom on social media with interesting, intimate stories 😲, light-hearted memes 😂, and exciting polls 📊. <br />
+				Whispers SG is a CS3216 project that clinched <b>top prize in the 19th STePS</b>.
+				</p>
+				<p><b>Areas of Growth</b>: Front-end Development (Next.JS, React, Tailwind, GraphQL, Relay), Product Management, Marketing and User Acquisition, Product Pitching.</p>
+				<ul class="actions">
+					<li><a href="whispersSg.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
 		<a href="shopeeDesignChallenge.html" class="image">
 			<img src="{% link assets/images/shopee.png %}" alt="" data-position="center center" />
 		</a>

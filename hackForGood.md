@@ -36,14 +36,18 @@ Thus, I especially resonated with the comments made by one of the judges:
 View our slide deck [**here**](https://drive.google.com/file/d/1mWTRA-4mJjHxFarsNMXfixeAHz3YUjVs/view?usp=sharing), or watch our presentation below:
 
 ### Grand Finals Presentation  
-<div class="responsive-google-slides">
-    <iframe src="https://www.youtube.com/embed/YslBGf1aof4?start=3311" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="responsive-container">
+    <div class="responsive-google-slides">
+        <iframe src="https://www.youtube.com/embed/YslBGf1aof4?start=3311" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
 </div>
 <br />
 
 ### Product Demo Video
-<div class="responsive-google-slides">
-    <iframe src="https://drive.google.com/file/d/1uCx56zD5NPZ8gasnK5m5k0n4tPFhtyGH/preview" width="640" height="480"></iframe>
+<div class="responsive-container">
+    <div class="responsive-google-slides">
+        <iframe src="https://drive.google.com/file/d/1uCx56zD5NPZ8gasnK5m5k0n4tPFhtyGH/preview" width="640" height="480"></iframe>
+    </div>
 </div>
 <br />
 
