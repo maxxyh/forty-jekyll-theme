@@ -8,7 +8,6 @@ show_tile: false
 includeImage: false
 ---
 
-## Whispers SG (CS3216 Final Project) 
 <figure>
     <img src="assets/images/whispersSgPoster.png" style="width:100%; max-width: 700px" />
 </figure>
@@ -23,8 +22,9 @@ Whispers SG was awarded **top project** in the CS3216 module during the 19th STe
 Many thanks to my amazing, talented, and most importantly, driven teammates for bringing Whispers SG to life! We are also very thankful to [Yangshun](https://sg.linkedin.com/in/yangshun) for his guidance, especially on the product development and marketing front! 
 <figure>
     <img src="assets/images/whispersSgTeam.jpg" style="width:100%; max-width: 700px" />
-    <figcaption>My teammates and I on a zoom call, a sight for sore eyes during the semester...</figcaption>
+    <figcaption><i>My teammates and I on a zoom call, a sight for sore eyes during the semester...</i></figcaption>
 </figure>
+<br/>
 
 What are you curious about? What stories do you have to share? Check out [Whispers SG (whispers.sg)](http://www.whispers.sg) today!
 
@@ -55,9 +55,9 @@ It was a difficult yet immensely rewarding experience to be able to go through t
 
 <figure>
   <img src="assets/images/whispersSgInterface.png" style="width:100%; max-width: 700px" />
-  <figcaption>Site Interface</figcaption>
+  <figcaption><i>Site Interface</i></figcaption>
 </figure>
-</br>
+<br/>
 
 ### Reflections 
 I had an absolute blast during CS3216 as we were given the space to learn about the **design process**, which is a vital but often overlooked aspect of product development, especially amongst Computer Science students. Whispers SG is a cool application simply because we've tested it repeatedly amongst users and firmly believe it can **bring value to real people**. 
